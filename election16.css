@@ -2,3 +2,7 @@ body {
     background-color: white;
     font-family: Georgia;
 }
+
+.multimedia-graphic img {
+  width: 50%;
+}
