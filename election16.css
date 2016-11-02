@@ -2,3 +2,17 @@ body {
     background-color: white;
     font-family: Georgia;
 }
+
+h1 {
+  text-align: center;
+}
+
+#navMenu {
+  margin: auto;
+  width: 50%;
+  font-size: 20px;
+}
+
+.multimedia-graphic img {
+  width: 100%;
+}
